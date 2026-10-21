@@ -118,4 +118,38 @@ footer {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
+/* Responsive design for mobile devices */
+@media (max-width: 768px) {
+    .destinations {
+        grid-template-columns: 1fr;
+    }
+
+    .destination {
+        margin-bottom: 20px;
+    }
+
+    .destination img {
+        height: 200px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .destination {
+        padding: 15px;
+    }
+}
+
+
 
