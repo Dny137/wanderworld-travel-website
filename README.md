@@ -28,3 +28,28 @@ The Jenkinsfile defines stages to check out the source code, validate the requir
 
 ## Author
 ISE-2 DevOps Practical
+
+
+## Project Screenshots and Evidence
+
+These screenshots document the WanderWorld project, GitHub repository, and Jenkins integration.
+
+### 1. GitHub Repository and Project Progress
+
+![GitHub repository screenshot](screenshots-page-1.png)
+
+### 2. Jenkins Integration
+
+![Jenkins build result screenshot](screenshots-page-2.png)
+
+### 3. Website and Project Evidence
+
+![Website project screenshot](screenshots-page-3.png)
+
+### Live Website
+
+[Visit WanderWorld](https://dny137.github.io/wanderworld-travel-website/)
+
+### Source Code
+
+[View GitHub Repository](https://github.com/Dny137/wanderworld-travel-website)
